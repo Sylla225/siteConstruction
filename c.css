@@ -1,0 +1,168 @@
+/*header*/
+    .navbar-fixed-top .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.navbar>.container .navbar-brand{
+  margin-left: 0;
+}
+
+.navbar-brand {
+  padding: 0;
+  margin:0;
+}
+
+.navbar-header a.navbar-brand {
+   color:#111;
+   font-family:'Roboto';
+}
+
+.navbar-header a.navbar-brand:hover{
+   color:#fff;
+}
+
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+  background: #151515;
+  padding: 21px 0;
+  padding-bottom: 0;
+}
+
+.navbar-nav{
+  margin-top: 12px;
+ }
+
+.navbar-nav>li{
+  margin-left: 20px;
+  padding-bottom: 28px;
+}
+
+.navbar-fixed-top .navbar-nav > li > a {
+	padding: 5px 12px;
+	margin: 0;
+	border-radius: 3px;
+	color: #111;
+	line-height: 24px;
+	display: inline-block;
+	text-transform:;
+	font-weight:500;
+	font-size:18px;
+	font-family:'Roboto';
+}
+
+.navbar-fixed-top .navbar-nav > li > a:hover{
+	background: #0BA9F9;	
+	color:#fff;
+}
+
+.navbar-fixed-top {
+  border: none;
+  background: blanchedalmond;
+}
+
+.navbar-fixed-top .navbar-brand {
+  font-size: 36px;
+  line-height: 50px;
+  color: #fff;
+}
+
+.navbar-fixed-top .navbar-nav > .active > a,
+.navbar-fixed-top .navbar-nav > .active > a:hover,
+.navbar-fixed-top .navbar-nav > .active > a:focus,
+.navbar-fixed-top .navbar-nav > .open > a,
+.navbar-fixed-top .navbar-nav > .open > a:hover,
+.navbar-fixed-top .navbar-nav > .open > a:focus {
+  background-color: #111;
+  color: #fff;
+}
+/*fin header*/
+.carousel-page
+{
+width:100%;
+height:500px;
+background-color:#5f666d;
+color:white;
+}
+img {
+    width:80%;
+height:500px;
+}
+footer {
+    background:bisque;
+	padding-bottom:20px;
+}
+#contact {
+	background:url('image/.jpg') fixed no-repeat;
+	padding-top:70px;
+	padding-bottom:80px;
+}
+#contact .text-center {
+	padding-top:20px;
+	margin-bottom:30px;
+	padding-bottom:10px;
+}
+
+#contact ul {
+	list-style:none;
+	margin-left:-40px;
+	font-size:13px;
+}
+
+#contact h2 {
+	color:#0BAFA0;
+	margin-bottom:30px;
+	font-size:25px;
+}
+.form-inline {
+	margin-top:15px;
+	margin-bottom:15px;	
+}
+.form-inline .form-group input[type="name"]{
+	margin-top:10px;
+	border-radius:4px;
+	border-radius:6px;
+}
+
+.form-inline .form-group input[type="email"]{
+	margin-top:10px;
+	border-radius:6px;
+	padding:5px 20px;
+}
+/*contact*/
+
+
+/*ADMIN*/
+h2{
+  margin-top: 2%;
+  text-align:center;
+  border: 2px solid orange;
+  }
+
+h1{
+				font-size: 40px;
+				font-family: verdana;
+			}
+			a{
+				text-align: right;
+				text-decoration: none;
+				font-size: 25px;
+			}
+			h3{
+				color:khaki;
+				font-size: 30px;
+				font-family: verdana;
+				background: green;
+			}
+			table{
+				border-collapse: collapse;
+			}
+			td, th{
+				padding: 20px;
+
+			}
+			tr th{
+       
+				color:orange;
+			
+			}
